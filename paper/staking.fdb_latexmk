@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber staking"] 1719350776.21237 "staking.bcf" "staking.bbl" "staking" 1719505794.10908 0
+["biber staking"] 1719350776.21237 "staking.bcf" "staking.bbl" "staking" 1724184491.29452 0
   "references.bib" 1718518802 8609 130dd907ae58d74dc83565ffdeafbc11 ""
-  "staking.bcf" 1719505793 106964 ace072bfd083a2a5b3a0bec7e8e2a0ec "pdflatex"
+  "staking.bcf" 1724184491 106964 ace072bfd083a2a5b3a0bec7e8e2a0ec "pdflatex"
   (generated)
   "staking.bbl"
   "staking.blg"
   (rewritten before read)
-["pdflatex"] 1719505792.62352 "d:/Projects/StakingResearch/paper/staking.tex" "staking.pdf" "staking" 1719505794.10946 0
+["pdflatex"] 1724184488.14363 "d:/Projects/OptimalStaking/paper/staking.tex" "staking.pdf" "staking" 1724184491.29513 0
   "c:/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc" 1719348770 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "c:/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1719348673 2971 def0b6c1f0b107b3b936def894055589 ""
   "c:/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1719348857 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -181,7 +181,7 @@
   "c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1719349724 5461909 5d5f27920f072000e5e132df0adf877a ""
   "c:/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1719349805 6861922 6d8abdc165af63afae478041ba775714 ""
   "c:/texlive/2024/texmf.cnf" 1719349713 713 e69b156964470283e0530f5060668171 ""
-  "d:/Projects/StakingResearch/paper/staking.tex" 1719505790 99388 ed2a97dd0d945599e42d90d07a696087 ""
+  "d:/Projects/OptimalStaking/paper/staking.tex" 1724184487 99388 ed2a97dd0d945599e42d90d07a696087 ""
   "images/6.3_fixed_com_absolute.jpg" 1718518802 311114 37e215b919866036c87a6546487e2d27 ""
   "images/6.3_fixed_com_absolute_log.jpg" 1718518802 289089 55f9a02d929e7bcc0d77a56b5fb01faa ""
   "images/6.3_fixed_com_relative.jpg" 1718518802 346925 a9e8c8eca7e6c4da59bb2f2d95e859a9 ""
@@ -210,12 +210,12 @@
   "images/_6.3_free_sim_individual_rewards.jpg" 1718518802 156517 a374522c92bd407fd9023d85f5b1a550 ""
   "images/_6.3_sim_total_principal.jpg" 1718518802 128238 959878098a32e2b01a1d61d9f31dd514 ""
   "images/_6.3_sim_total_rewards.jpg" 1718518802 141079 8acf1cb850d06323268a29711aac8fac ""
-  "staking.aux" 1719505793 27240 0427b78f450a6cca4421881bb0dbd8bb "pdflatex"
+  "staking.aux" 1724184491 27240 0427b78f450a6cca4421881bb0dbd8bb "pdflatex"
   "staking.bbl" 1719350804 5310 7aa3064ae0020414b00892d47554b8a3 "biber staking"
-  "staking.out" 1719505793 4892 f0622451ebe6a3e0c804306421049f4b "pdflatex"
-  "staking.run.xml" 1719505793 2326 5e71d9b14420457b2883f22849ebacf4 "pdflatex"
+  "staking.out" 1724184491 4892 f0622451ebe6a3e0c804306421049f4b "pdflatex"
+  "staking.run.xml" 1724184491 2326 5e71d9b14420457b2883f22849ebacf4 "pdflatex"
   "staking.sty" 1718518802 7889 ae978b9d1cfefce6ddfc886eaf03d9bc ""
-  "staking.tex" 1719505790 99388 ed2a97dd0d945599e42d90d07a696087 ""
+  "staking.tex" 1724184487 99388 ed2a97dd0d945599e42d90d07a696087 ""
   (generated)
   "staking.aux"
   "staking.bcf"

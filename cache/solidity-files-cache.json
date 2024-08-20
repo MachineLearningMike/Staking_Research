@@ -1,0 +1,789 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "D:\\MachineLearning\\StakingResearch\\contracts\\CompoundBurnActivity.sol": {
+      "lastModificationDate": 1717529457619,
+      "contentHash": "1a95b144b25ab54fd379169fa72825de",
+      "sourceName": "contracts/CompoundBurnActivity.sol",
+      "solcConfig": {
+        "version": "0.8.14",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "../libraries/SafeMath.sol",
+        "../libraries/AnalyticMath.sol",
+        "../libraries/IntegralMath.sol",
+        "hardhat/console.sol"
+      ],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "CompoundBurnActivity"
+      ]
+    },
+    "D:\\MachineLearning\\StakingResearch\\libraries\\AnalyticMath.sol": {
+      "lastModificationDate": 1714709423813,
+      "contentHash": "f1de041765b1c3019222dbf91147fd78",
+      "sourceName": "libraries/AnalyticMath.sol",
+      "solcConfig": {
+        "version": "0.8.14",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "./IntegralMath.sol"
+      ],
+      "versionPragmas": [
+        "0.8.14"
+      ],
+      "artifacts": [
+        "AnalyticMath"
+      ]
+    },
+    "D:\\MachineLearning\\StakingResearch\\libraries\\IntegralMath.sol": {
+      "lastModificationDate": 1714709423813,
+      "contentHash": "cd439eb2fd8fead3675609e0ad4fa3dd",
+      "sourceName": "libraries/IntegralMath.sol",
+      "solcConfig": {
+        "version": "0.8.14",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "0.8.14"
+      ],
+      "artifacts": [
+        "IntegralMath"
+      ]
+    },
+    "D:\\MachineLearning\\StakingResearch\\contracts\\SimpleInterestPendencyRandom.sol": {
+      "lastModificationDate": 1717531339181,
+      "contentHash": "5eccfc5cfe406dcbc494a640316dae21",
+      "sourceName": "contracts/SimpleInterestPendencyRandom.sol",
+      "solcConfig": {
+        "version": "0.8.14",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "../libraries/SafeMath.sol",
+        "../libraries/AnalyticMath.sol",
+        "../libraries/IntegralMath.sol",
+        "hardhat/console.sol"
+      ],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "SimpleInterestPendencyRandom"
+      ]
+    },
+    "D:\\MachineLearning\\StakingResearch\\contracts\\SimpleInterestPendency.sol": {
+      "lastModificationDate": 1717531339181,
+      "contentHash": "1dcd6deb4b4ac79ba99cb481bb8edcf4",
+      "sourceName": "contracts/SimpleInterestPendency.sol",
+      "solcConfig": {
+        "version": "0.8.14",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "../libraries/SafeMath.sol",
+        "../libraries/AnalyticMath.sol",
+        "../libraries/IntegralMath.sol",
+        "hardhat/console.sol"
+      ],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "SimpleInterestPendency"
+      ]
+    },
+    "D:\\MachineLearning\\StakingResearch\\contracts\\SimpleInterestActivityRandom.sol": {
+      "lastModificationDate": 1717531339181,
+      "contentHash": "49315c118eb997bff59c69160bd0e9d8",
+      "sourceName": "contracts/SimpleInterestActivityRandom.sol",
+      "solcConfig": {
+        "version": "0.8.14",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "../libraries/SafeMath.sol",
+        "../libraries/AnalyticMath.sol",
+        "../libraries/IntegralMath.sol",
+        "hardhat/console.sol"
+      ],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "SimpleInterestActivityRandom"
+      ]
+    },
+    "D:\\MachineLearning\\StakingResearch\\contracts\\SimpleInterestActivity.sol": {
+      "lastModificationDate": 1717531339181,
+      "contentHash": "c5e4ea2326bab9484ad2309b39732d55",
+      "sourceName": "contracts/SimpleInterestActivity.sol",
+      "solcConfig": {
+        "version": "0.8.14",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "../libraries/SafeMath.sol",
+        "../libraries/AnalyticMath.sol",
+        "../libraries/IntegralMath.sol",
+        "hardhat/console.sol"
+      ],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "SimpleInterestActivity"
+      ]
+    },
+    "D:\\MachineLearning\\StakingResearch\\contracts\\SimpleBurnPendencyRandom.sol": {
+      "lastModificationDate": 1717531339183,
+      "contentHash": "1c11dd1df79fdfbf7894da3d93af7a3e",
+      "sourceName": "contracts/SimpleBurnPendencyRandom.sol",
+      "solcConfig": {
+        "version": "0.8.14",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "../libraries/SafeMath.sol",
+        "../libraries/AnalyticMath.sol",
+        "../libraries/IntegralMath.sol",
+        "hardhat/console.sol"
+      ],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "SimpleBurnPendencyRandom"
+      ]
+    },
+    "D:\\MachineLearning\\StakingResearch\\contracts\\SimpleBurnPendency.sol": {
+      "lastModificationDate": 1717531339183,
+      "contentHash": "8f1ea53a708ec4e3b0ba96157014d136",
+      "sourceName": "contracts/SimpleBurnPendency.sol",
+      "solcConfig": {
+        "version": "0.8.14",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "../libraries/SafeMath.sol",
+        "../libraries/AnalyticMath.sol",
+        "../libraries/IntegralMath.sol",
+        "hardhat/console.sol"
+      ],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "SimpleBurnPendency"
+      ]
+    },
+    "D:\\MachineLearning\\StakingResearch\\contracts\\SimpleBurnActivityRandom.sol": {
+      "lastModificationDate": 1717531339183,
+      "contentHash": "022adbfdf8a9ae4e06e801fe0b1542f9",
+      "sourceName": "contracts/SimpleBurnActivityRandom.sol",
+      "solcConfig": {
+        "version": "0.8.14",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "../libraries/SafeMath.sol",
+        "../libraries/AnalyticMath.sol",
+        "../libraries/IntegralMath.sol",
+        "hardhat/console.sol"
+      ],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "SimpleBurnActivityRandom"
+      ]
+    },
+    "D:\\MachineLearning\\StakingResearch\\contracts\\SimpleBurnActivity.sol": {
+      "lastModificationDate": 1717531268353,
+      "contentHash": "e5f3233e5ef7bbde86b28b2367539c50",
+      "sourceName": "contracts/SimpleBurnActivity.sol",
+      "solcConfig": {
+        "version": "0.8.14",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "../libraries/SafeMath.sol",
+        "../libraries/AnalyticMath.sol",
+        "../libraries/IntegralMath.sol",
+        "hardhat/console.sol"
+      ],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "SimpleBurnActivity"
+      ]
+    },
+    "D:\\MachineLearning\\StakingResearch\\contracts\\CompoundInterestPendencyRandom.sol": {
+      "lastModificationDate": 1717529097206,
+      "contentHash": "2d00654a5459cb8903e2627379d00b9b",
+      "sourceName": "contracts/CompoundInterestPendencyRandom.sol",
+      "solcConfig": {
+        "version": "0.8.14",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "../libraries/SafeMath.sol",
+        "../libraries/AnalyticMath.sol",
+        "../libraries/IntegralMath.sol",
+        "hardhat/console.sol"
+      ],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "CompoundInterestPendencyRandom"
+      ]
+    },
+    "D:\\MachineLearning\\StakingResearch\\contracts\\CompoundInterestPendency.sol": {
+      "lastModificationDate": 1717529457616,
+      "contentHash": "d62764fab8e7ba0b471d50faab9a70a2",
+      "sourceName": "contracts/CompoundInterestPendency.sol",
+      "solcConfig": {
+        "version": "0.8.14",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "../libraries/SafeMath.sol",
+        "../libraries/AnalyticMath.sol",
+        "../libraries/IntegralMath.sol",
+        "hardhat/console.sol"
+      ],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "CompoundInterestPendency"
+      ]
+    },
+    "D:\\MachineLearning\\StakingResearch\\contracts\\CompoundInterestActivityRandom.sol": {
+      "lastModificationDate": 1717529457617,
+      "contentHash": "5432194e155f0fee5a992b49684e3bdd",
+      "sourceName": "contracts/CompoundInterestActivityRandom.sol",
+      "solcConfig": {
+        "version": "0.8.14",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "../libraries/SafeMath.sol",
+        "../libraries/AnalyticMath.sol",
+        "../libraries/IntegralMath.sol",
+        "hardhat/console.sol"
+      ],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "CompoundInterestActivityRandom"
+      ]
+    },
+    "D:\\MachineLearning\\StakingResearch\\contracts\\CompoundInterestActivity.sol": {
+      "lastModificationDate": 1717529457617,
+      "contentHash": "6f028c36274d6bc1a5045037497df711",
+      "sourceName": "contracts/CompoundInterestActivity.sol",
+      "solcConfig": {
+        "version": "0.8.14",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "../libraries/SafeMath.sol",
+        "../libraries/AnalyticMath.sol",
+        "../libraries/IntegralMath.sol",
+        "hardhat/console.sol"
+      ],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "CompoundInterestActivity"
+      ]
+    },
+    "D:\\MachineLearning\\StakingResearch\\contracts\\CompoundBurnPendencyRandom.sol": {
+      "lastModificationDate": 1717529457617,
+      "contentHash": "e1cb2f429c49255725f8d513b333bfde",
+      "sourceName": "contracts/CompoundBurnPendencyRandom.sol",
+      "solcConfig": {
+        "version": "0.8.14",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "../libraries/SafeMath.sol",
+        "../libraries/AnalyticMath.sol",
+        "../libraries/IntegralMath.sol",
+        "hardhat/console.sol"
+      ],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "CompoundBurnPendencyRandom"
+      ]
+    },
+    "D:\\MachineLearning\\StakingResearch\\contracts\\CompoundBurnPendency.sol": {
+      "lastModificationDate": 1717529457619,
+      "contentHash": "7dcd782d37a2c8f01f8d44a7d140a792",
+      "sourceName": "contracts/CompoundBurnPendency.sol",
+      "solcConfig": {
+        "version": "0.8.14",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "../libraries/SafeMath.sol",
+        "../libraries/AnalyticMath.sol",
+        "../libraries/IntegralMath.sol",
+        "hardhat/console.sol"
+      ],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "CompoundBurnPendency"
+      ]
+    },
+    "D:\\MachineLearning\\StakingResearch\\contracts\\CompoundBurnActivityRandom.sol": {
+      "lastModificationDate": 1717529457619,
+      "contentHash": "e474d9e7d41c3d8f40aa7184e3f0d931",
+      "sourceName": "contracts/CompoundBurnActivityRandom.sol",
+      "solcConfig": {
+        "version": "0.8.14",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "../libraries/SafeMath.sol",
+        "../libraries/AnalyticMath.sol",
+        "../libraries/IntegralMath.sol",
+        "hardhat/console.sol"
+      ],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "CompoundBurnActivityRandom"
+      ]
+    },
+    "D:\\MachineLearning\\StakingResearch\\node_modules\\hardhat\\console.sol": {
+      "lastModificationDate": 1717736752303,
+      "contentHash": "896f68942c3a20e9ae3c3c5bfd3add54",
+      "sourceName": "hardhat/console.sol",
+      "solcConfig": {
+        "version": "0.8.24",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.4.22 <0.9.0"
+      ],
+      "artifacts": [
+        "console"
+      ]
+    },
+    "D:\\MachineLearning\\StakingResearch\\libraries\\SafeMath.sol": {
+      "lastModificationDate": 1714709423813,
+      "contentHash": "cb8ad92bed43fe4c92dc3c3b1c9e0470",
+      "sourceName": "libraries/SafeMath.sol",
+      "solcConfig": {
+        "version": "0.8.24",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "SafeMath"
+      ]
+    }
+  }
+}

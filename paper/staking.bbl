@@ -1,0 +1,139 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{satoshi}{online}{}
+      \name{author}{1}{}{%
+        {{hash=1977190f018b398e43ede3de043de8ea}{%
+           family={Nakamoto},
+           familyi={N\bibinitperiod},
+           given={Satoshi},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{1977190f018b398e43ede3de043de8ea}
+      \strng{fullhash}{1977190f018b398e43ede3de043de8ea}
+      \strng{bibnamehash}{1977190f018b398e43ede3de043de8ea}
+      \strng{authorbibnamehash}{1977190f018b398e43ede3de043de8ea}
+      \strng{authornamehash}{1977190f018b398e43ede3de043de8ea}
+      \strng{authorfullhash}{1977190f018b398e43ede3de043de8ea}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Bitcoin: A Peer-to-Peer Electronic Cash System}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://bitcoin.org/bitcoin.pdf
+      \endverb
+      \verb{url}
+      \verb https://bitcoin.org/bitcoin.pdf
+      \endverb
+      \keyw{Electronic cash,Bitcoin,Distributed ledger,Satoshi}
+    \endentry
+    \entry{pancakeswap}{online}{}
+      \name{author}{1}{}{%
+        {{hash=a305689f40f6948fcf36d14fd055ab92}{%
+           family={PancakeSwap},
+           familyi={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{a305689f40f6948fcf36d14fd055ab92}
+      \strng{fullhash}{a305689f40f6948fcf36d14fd055ab92}
+      \strng{bibnamehash}{a305689f40f6948fcf36d14fd055ab92}
+      \strng{authorbibnamehash}{a305689f40f6948fcf36d14fd055ab92}
+      \strng{authornamehash}{a305689f40f6948fcf36d14fd055ab92}
+      \strng{authorfullhash}{a305689f40f6948fcf36d14fd055ab92}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Distributed trading protocol on BNB Smart Chain}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://github.com/pancakeswap/pancake-farm/blob/master/contracts/MasterChef.sol
+      \endverb
+      \verb{url}
+      \verb https://github.com/pancakeswap/pancake-farm/blob/master/contracts/MasterChef.sol
+      \endverb
+      \keyw{PancakeSwap,Yiled farming,Liquidity pool}
+    \endentry
+    \entry{solidity-math-utils}{online}{}
+      \name{author}{1}{}{%
+        {{hash=773a1b90066b31dde4f00dabac2a9b20}{%
+           family={Manos},
+           familyi={M\bibinitperiod},
+           given={Barak},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{773a1b90066b31dde4f00dabac2a9b20}
+      \strng{fullhash}{773a1b90066b31dde4f00dabac2a9b20}
+      \strng{bibnamehash}{773a1b90066b31dde4f00dabac2a9b20}
+      \strng{authorbibnamehash}{773a1b90066b31dde4f00dabac2a9b20}
+      \strng{authornamehash}{773a1b90066b31dde4f00dabac2a9b20}
+      \strng{authorfullhash}{773a1b90066b31dde4f00dabac2a9b20}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Solidity Math Utilities}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://github.com/barakman/solidity-math-utils#integralmath
+      \endverb
+      \verb{url}
+      \verb https://github.com/barakman/solidity-math-utils#integralmath
+      \endverb
+      \keyw{IntegralMath,FunctionMath,AnalyticMach,AdvancedMath}
+    \endentry
+    \entry{makarov}{article}{}
+      \name{author}{2}{}{%
+        {{hash=b66d967f1b4d160ab2af5d4fb46fbd31}{%
+           family={Makarov},
+           familyi={M\bibinitperiod},
+           given={Igor},
+           giveni={I\bibinitperiod}}}%
+        {{hash=6fef22905d62024d45fe52823eb2c78d}{%
+           family={Schoar},
+           familyi={S\bibinitperiod},
+           given={Antoinette},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{785a5108f23d07c3b3a4b1916e3d9b57}
+      \strng{fullhash}{785a5108f23d07c3b3a4b1916e3d9b57}
+      \strng{bibnamehash}{785a5108f23d07c3b3a4b1916e3d9b57}
+      \strng{authorbibnamehash}{785a5108f23d07c3b3a4b1916e3d9b57}
+      \strng{authornamehash}{785a5108f23d07c3b3a4b1916e3d9b57}
+      \strng{authorfullhash}{785a5108f23d07c3b3a4b1916e3d9b57}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{SSRN Electronic Journal}
+      \field{month}{01}
+      \field{title}{Cryptocurrencies and Decentralized Finance (DeFi)}
+      \field{year}{2022}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.2139/ssrn.4104550
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

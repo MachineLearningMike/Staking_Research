@@ -1,0 +1,606 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{satoshi}{online}{}
+      \name{author}{1}{}{%
+        {{hash=1977190f018b398e43ede3de043de8ea}{%
+           family={Nakamoto},
+           familyi={N\bibinitperiod},
+           given={Satoshi},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{1977190f018b398e43ede3de043de8ea}
+      \strng{fullhash}{1977190f018b398e43ede3de043de8ea}
+      \strng{bibnamehash}{1977190f018b398e43ede3de043de8ea}
+      \strng{authorbibnamehash}{1977190f018b398e43ede3de043de8ea}
+      \strng{authornamehash}{1977190f018b398e43ede3de043de8ea}
+      \strng{authorfullhash}{1977190f018b398e43ede3de043de8ea}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Bitcoin: A Peer-to-Peer Electronic Cash System}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://bitcoin.org/bitcoin.pdf
+      \endverb
+      \verb{url}
+      \verb https://bitcoin.org/bitcoin.pdf
+      \endverb
+      \keyw{Electronic cash,Bitcoin,Distributed ledger,Satoshi}
+    \endentry
+    \entry{pancakeswap}{online}{}
+      \name{author}{1}{}{%
+        {{hash=a305689f40f6948fcf36d14fd055ab92}{%
+           family={PancakeSwap},
+           familyi={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{a305689f40f6948fcf36d14fd055ab92}
+      \strng{fullhash}{a305689f40f6948fcf36d14fd055ab92}
+      \strng{bibnamehash}{a305689f40f6948fcf36d14fd055ab92}
+      \strng{authorbibnamehash}{a305689f40f6948fcf36d14fd055ab92}
+      \strng{authornamehash}{a305689f40f6948fcf36d14fd055ab92}
+      \strng{authorfullhash}{a305689f40f6948fcf36d14fd055ab92}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Distributed trading protocol on BNB Smart Chain}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://github.com/pancakeswap/pancake-farm/blob/master/contracts/MasterChef.sol
+      \endverb
+      \verb{url}
+      \verb https://github.com/pancakeswap/pancake-farm/blob/master/contracts/MasterChef.sol
+      \endverb
+      \keyw{PancakeSwap,Yiled farming,Liquidity pool}
+    \endentry
+    \entry{solidity-math-utils}{online}{}
+      \name{author}{1}{}{%
+        {{hash=773a1b90066b31dde4f00dabac2a9b20}{%
+           family={Manos},
+           familyi={M\bibinitperiod},
+           given={Barak},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{773a1b90066b31dde4f00dabac2a9b20}
+      \strng{fullhash}{773a1b90066b31dde4f00dabac2a9b20}
+      \strng{bibnamehash}{773a1b90066b31dde4f00dabac2a9b20}
+      \strng{authorbibnamehash}{773a1b90066b31dde4f00dabac2a9b20}
+      \strng{authornamehash}{773a1b90066b31dde4f00dabac2a9b20}
+      \strng{authorfullhash}{773a1b90066b31dde4f00dabac2a9b20}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Solidity Math Utilities}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://github.com/barakman/solidity-math-utils#integralmath
+      \endverb
+      \verb{url}
+      \verb https://github.com/barakman/solidity-math-utils#integralmath
+      \endverb
+      \keyw{IntegralMath,FunctionMath,AnalyticMach,AdvancedMath}
+    \endentry
+    \entry{makarov}{article}{}
+      \name{author}{2}{}{%
+        {{hash=b66d967f1b4d160ab2af5d4fb46fbd31}{%
+           family={Makarov},
+           familyi={M\bibinitperiod},
+           given={Igor},
+           giveni={I\bibinitperiod}}}%
+        {{hash=6fef22905d62024d45fe52823eb2c78d}{%
+           family={Schoar},
+           familyi={S\bibinitperiod},
+           given={Antoinette},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{785a5108f23d07c3b3a4b1916e3d9b57}
+      \strng{fullhash}{785a5108f23d07c3b3a4b1916e3d9b57}
+      \strng{bibnamehash}{785a5108f23d07c3b3a4b1916e3d9b57}
+      \strng{authorbibnamehash}{785a5108f23d07c3b3a4b1916e3d9b57}
+      \strng{authornamehash}{785a5108f23d07c3b3a4b1916e3d9b57}
+      \strng{authorfullhash}{785a5108f23d07c3b3a4b1916e3d9b57}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{SSRN Electronic Journal}
+      \field{month}{01}
+      \field{title}{Cryptocurrencies and Decentralized Finance (DeFi)}
+      \field{year}{2022}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.2139/ssrn.4104550
+      \endverb
+    \endentry
+    \entry{riposo}{article}{}
+      \name{author}{2}{}{%
+        {{hash=8e0b928a4486c727ab0c749b39aca92d}{%
+           family={Riposo},
+           familyi={R\bibinitperiod},
+           given={Julien},
+           giveni={J\bibinitperiod}}}%
+        {{hash=580ad8083beab33d6648f9f287392f7a}{%
+           family={Gupta},
+           familyi={G\bibinitperiod},
+           given={Maneesh},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{a99200561d96ef04774662b755412af2}
+      \strng{fullhash}{a99200561d96ef04774662b755412af2}
+      \strng{bibnamehash}{a99200561d96ef04774662b755412af2}
+      \strng{authorbibnamehash}{a99200561d96ef04774662b755412af2}
+      \strng{authornamehash}{a99200561d96ef04774662b755412af2}
+      \strng{authorfullhash}{a99200561d96ef04774662b755412af2}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{FinTech}
+      \field{month}{02}
+      \field{title}{A Crypto Yield Model for Staking Return}
+      \field{volume}{3}
+      \field{year}{2024}
+      \true{nocite}
+      \field{pages}{116\bibrangedash 134}
+      \range{pages}{19}
+      \verb{doi}
+      \verb 10.3390/fintech3010008
+      \endverb
+    \endentry
+    \entry{gogol2024empirical}{article}{}
+      \name{author}{6}{}{%
+        {{hash=5eacb59108107fd4bab5386ba0b23f35}{%
+           family={Gogol},
+           familyi={G\bibinitperiod},
+           given={Krzysztof},
+           giveni={K\bibinitperiod}}}%
+        {{hash=c8fa3260e4f22f62c3b24c79f2be5955}{%
+           family={Kraner},
+           familyi={K\bibinitperiod},
+           given={Benjamin},
+           giveni={B\bibinitperiod}}}%
+        {{hash=92d9fc5794ccdca21a5286ccfd3a6335}{%
+           family={Schlosser},
+           familyi={S\bibinitperiod},
+           given={Malte},
+           giveni={M\bibinitperiod}}}%
+        {{hash=126eb2626ab18d7d0a7a59b18b3e1980}{%
+           family={Yan},
+           familyi={Y\bibinitperiod},
+           given={Tao},
+           giveni={T\bibinitperiod}}}%
+        {{hash=66c449cdc49b90b82a2c5e009cc8904c}{%
+           family={Tessone},
+           familyi={T\bibinitperiod},
+           given={Claudio},
+           giveni={C\bibinitperiod}}}%
+        {{hash=0f4b6c383b17739ca0d159224e7fef01}{%
+           family={Stiller},
+           familyi={S\bibinitperiod},
+           given={Burkhard},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{626becbec9e0175c8e515a1bbd863193}
+      \strng{fullhash}{6d3fd8b5b7e71ec567f968533a5aa01a}
+      \strng{bibnamehash}{626becbec9e0175c8e515a1bbd863193}
+      \strng{authorbibnamehash}{626becbec9e0175c8e515a1bbd863193}
+      \strng{authornamehash}{626becbec9e0175c8e515a1bbd863193}
+      \strng{authorfullhash}{6d3fd8b5b7e71ec567f968533a5aa01a}
+      \field{extraname}{1}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{cs.CR}
+      \field{eprinttype}{arXiv}
+      \field{title}{Empirical and Theoretical Analysis of Liquid Staking Protocols}
+      \field{year}{2024}
+      \true{nocite}
+      \verb{eprint}
+      \verb 2401.16353
+      \endverb
+    \endentry
+    \entry{scharnowski}{online}{}
+      \name{author}{2}{}{%
+        {{hash=c61aea252b7bbbaa202d9e41d883698d}{%
+           family={Scharnowski},
+           familyi={S\bibinitperiod},
+           given={Stefan},
+           giveni={S\bibinitperiod}}}%
+        {{hash=c5351a8e6d3e97c1f4a372f65d5e7a3a}{%
+           family={Jahanshahloo},
+           familyi={J\bibinitperiod},
+           given={Hossein},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{c2b017e46bbc2e289508020c1ee43074}
+      \strng{fullhash}{c2b017e46bbc2e289508020c1ee43074}
+      \strng{bibnamehash}{c2b017e46bbc2e289508020c1ee43074}
+      \strng{authorbibnamehash}{c2b017e46bbc2e289508020c1ee43074}
+      \strng{authornamehash}{c2b017e46bbc2e289508020c1ee43074}
+      \strng{authorfullhash}{c2b017e46bbc2e289508020c1ee43074}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{02}
+      \field{title}{The economics of liquid staking derivatives: Basis determinants and price discovery}
+      \field{year}{2023}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://ssrn.com/abstract=4180341
+      \endverb
+      \verb{url}
+      \verb https://ssrn.com/abstract=4180341
+      \endverb
+      \keyw{Staking,Proof-of-stake,Cryptocurrency,Liquidity,Price discovery}
+    \endentry
+    \entry{Gersbach}{article}{}
+      \name{author}{3}{}{%
+        {{hash=d867f675a2d7b5162e60865003ace57c}{%
+           family={Gersbach},
+           familyi={G\bibinitperiod},
+           given={Hans},
+           giveni={H\bibinitperiod}}}%
+        {{hash=b5dcc6a88fefcb8fac1bfd59a241a213}{%
+           family={Mamageishvili},
+           familyi={M\bibinitperiod},
+           given={Akaki},
+           giveni={A\bibinitperiod}}}%
+        {{hash=934bc49ce3434c1cea4bd00ab3ccbd94}{%
+           family={Schneider},
+           familyi={S\bibinitperiod},
+           given={Manvir},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{46a2b03bca7dba53b07b2e2aae07f862}
+      \strng{fullhash}{46a2b03bca7dba53b07b2e2aae07f862}
+      \strng{bibnamehash}{46a2b03bca7dba53b07b2e2aae07f862}
+      \strng{authorbibnamehash}{46a2b03bca7dba53b07b2e2aae07f862}
+      \strng{authornamehash}{46a2b03bca7dba53b07b2e2aae07f862}
+      \strng{authorfullhash}{46a2b03bca7dba53b07b2e2aae07f862}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{03}
+      \field{title}{Staking Pools on Blockchains}
+      \field{year}{2022}
+      \true{nocite}
+    \endentry
+    \entry{Schueffel}{article}{}
+      \name{author}{1}{}{%
+        {{hash=f7f18c2ec942a630eb2a5378b7f788fa}{%
+           family={Schueffel},
+           familyi={S\bibinitperiod},
+           given={Patrick},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{f7f18c2ec942a630eb2a5378b7f788fa}
+      \strng{fullhash}{f7f18c2ec942a630eb2a5378b7f788fa}
+      \strng{bibnamehash}{f7f18c2ec942a630eb2a5378b7f788fa}
+      \strng{authorbibnamehash}{f7f18c2ec942a630eb2a5378b7f788fa}
+      \strng{authornamehash}{f7f18c2ec942a630eb2a5378b7f788fa}
+      \strng{authorfullhash}{f7f18c2ec942a630eb2a5378b7f788fa}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Innovation Management}
+      \field{month}{12}
+      \field{title}{DeFi: Decentralized Finance - An Introduction and Overview}
+      \field{volume}{9}
+      \field{year}{2021}
+      \true{nocite}
+      \field{pages}{i}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.24840/2183-0606_009.003_0001
+      \endverb
+    \endentry
+    \entry{Ahmed}{article}{}
+      \name{author}{1}{}{%
+        {{hash=7cef8c8d46b3143fa1fe5287c3fd92fd}{%
+           family={Ahmed},
+           familyi={A\bibinitperiod},
+           given={Alim},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{7cef8c8d46b3143fa1fe5287c3fd92fd}
+      \strng{fullhash}{7cef8c8d46b3143fa1fe5287c3fd92fd}
+      \strng{bibnamehash}{7cef8c8d46b3143fa1fe5287c3fd92fd}
+      \strng{authorbibnamehash}{7cef8c8d46b3143fa1fe5287c3fd92fd}
+      \strng{authornamehash}{7cef8c8d46b3143fa1fe5287c3fd92fd}
+      \strng{authorfullhash}{7cef8c8d46b3143fa1fe5287c3fd92fd}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{02}
+      \field{title}{The Rise of DeFi: Transforming Traditional Finance with Blockchain Innovation}
+      \field{year}{2024}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.20944/preprints202402.0738.v1
+      \endverb
+    \endentry
+    \entry{Jiang}{article}{}
+      \name{author}{10}{}{%
+        {{hash=ce92f9077f8fb9d132d464bb9a345385}{%
+           family={Jiang},
+           familyi={J\bibinitperiod},
+           given={Erya},
+           giveni={E\bibinitperiod}}}%
+        {{hash=2362eb00f89ff1c3f3b86eb7a366d46e}{%
+           family={Qin},
+           familyi={Q\bibinitperiod},
+           given={bo},
+           giveni={b\bibinitperiod}}}%
+        {{hash=dbb923b2eb3740d28592b75b64ac32c9}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Qin},
+           giveni={Q\bibinitperiod}}}%
+        {{hash=6470df8fc527317b3e1c17c2b06a83ae}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Zhipeng},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=af5622cf5c55b4a56f197722b448308f}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Qianhong},
+           giveni={Q\bibinitperiod}}}%
+        {{hash=0f136c9840f8237bfc9aadef1ad1f78e}{%
+           family={Weng},
+           familyi={W\bibinitperiod},
+           given={Jian},
+           giveni={J\bibinitperiod}}}%
+        {{hash=f7b213026e6a37ccf33b05453fb861ad}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Xinyu},
+           giveni={X\bibinitperiod}}}%
+        {{hash=2521c2fcb663069c2c5eb6a313e7748f}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Chenyang},
+           giveni={C\bibinitperiod}}}%
+        {{hash=bec75d6a76a9b3f1768414658dfdd639}{%
+           family={Ding},
+           familyi={D\bibinitperiod},
+           given={Yuhang},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=cec4d5ad89bcc3dc9e6dc8417ab4fc49}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Yanran},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{2c17046264f089161f0e351ace31076a}
+      \strng{fullhash}{4cadf5d0f63d03782628a052c61b4fc8}
+      \strng{bibnamehash}{2c17046264f089161f0e351ace31076a}
+      \strng{authorbibnamehash}{2c17046264f089161f0e351ace31076a}
+      \strng{authornamehash}{2c17046264f089161f0e351ace31076a}
+      \strng{authorfullhash}{4cadf5d0f63d03782628a052c61b4fc8}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{08}
+      \field{title}{Decentralized Finance (DeFi): A Survey}
+      \field{year}{2023}
+      \true{nocite}
+    \endentry
+    \entry{Benedetti}{article}{}
+      \name{author}{2}{}{%
+        {{hash=9938550427bd91e46b9e75e4d73d2c7d}{%
+           family={Benedetti},
+           familyi={B\bibinitperiod},
+           given={Hugo},
+           giveni={H\bibinitperiod}}}%
+        {{hash=a345df4e2f5ba6a88a45038b69f6d610}{%
+           family={Labbé},
+           familyi={L\bibinitperiod},
+           given={Sebastián},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{04062549129b6d7d500f71d403dbdb71}
+      \strng{fullhash}{04062549129b6d7d500f71d403dbdb71}
+      \strng{bibnamehash}{04062549129b6d7d500f71d403dbdb71}
+      \strng{authorbibnamehash}{04062549129b6d7d500f71d403dbdb71}
+      \strng{authornamehash}{04062549129b6d7d500f71d403dbdb71}
+      \strng{authorfullhash}{04062549129b6d7d500f71d403dbdb71}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{SSRN Electronic Journal}
+      \field{month}{02}
+      \field{title}{A Closer Look into Decentralized Finance (Defi)}
+      \field{year}{2022}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.2139/ssrn.4069011
+      \endverb
+    \endentry
+    \entry{Borisov}{article}{}
+      \name{author}{1}{}{%
+        {{hash=706036991dce3e17dfed96adaddac556}{%
+           family={Borisov},
+           familyi={B\bibinitperiod},
+           given={Svetoslav},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{706036991dce3e17dfed96adaddac556}
+      \strng{fullhash}{706036991dce3e17dfed96adaddac556}
+      \strng{bibnamehash}{706036991dce3e17dfed96adaddac556}
+      \strng{authorbibnamehash}{706036991dce3e17dfed96adaddac556}
+      \strng{authornamehash}{706036991dce3e17dfed96adaddac556}
+      \strng{authorfullhash}{706036991dce3e17dfed96adaddac556}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Ikonomicheski Izsledvania}
+      \field{month}{05}
+      \field{title}{DeFi–Potential, Advantages and Challenges}
+      \field{volume}{31}
+      \field{year}{2022}
+      \true{nocite}
+      \field{pages}{22}
+      \range{pages}{1}
+    \endentry
+    \entry{Singh}{article}{}
+      \name{author}{1}{}{%
+        {{hash=afd240f798aa9e7d3c5b51ec76414984}{%
+           family={Singh},
+           familyi={S\bibinitperiod},
+           given={Shashank},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{afd240f798aa9e7d3c5b51ec76414984}
+      \strng{fullhash}{afd240f798aa9e7d3c5b51ec76414984}
+      \strng{bibnamehash}{afd240f798aa9e7d3c5b51ec76414984}
+      \strng{authorbibnamehash}{afd240f798aa9e7d3c5b51ec76414984}
+      \strng{authornamehash}{afd240f798aa9e7d3c5b51ec76414984}
+      \strng{authorfullhash}{afd240f798aa9e7d3c5b51ec76414984}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{01}
+      \field{title}{DECENTRALIZED FINANCE (DEFI): EXPLORING THE ROLE OF BLOCKCHAIN AND CRYPTOCURRENCY IN FINANCIAL ECOSYSTEMS}
+      \field{year}{2024}
+      \true{nocite}
+      \field{pages}{2582\bibrangedash 5208}
+      \range{pages}{2627}
+      \verb{doi}
+      \verb 10.56726/IRJMETS48585
+      \endverb
+    \endentry
+    \entry{gogol2024sok}{article}{}
+      \name{author}{6}{}{%
+        {{hash=5eacb59108107fd4bab5386ba0b23f35}{%
+           family={Gogol},
+           familyi={G\bibinitperiod},
+           given={Krzysztof},
+           giveni={K\bibinitperiod}}}%
+        {{hash=9153be377cb4c29abc46e2679f2c2782}{%
+           family={Killer},
+           familyi={K\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod}}}%
+        {{hash=92d9fc5794ccdca21a5286ccfd3a6335}{%
+           family={Schlosser},
+           familyi={S\bibinitperiod},
+           given={Malte},
+           giveni={M\bibinitperiod}}}%
+        {{hash=d4ad7ca3834f80739b440f8ef6ac590b}{%
+           family={Bocek},
+           familyi={B\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+        {{hash=0f4b6c383b17739ca0d159224e7fef01}{%
+           family={Stiller},
+           familyi={S\bibinitperiod},
+           given={Burkhard},
+           giveni={B\bibinitperiod}}}%
+        {{hash=66c449cdc49b90b82a2c5e009cc8904c}{%
+           family={Tessone},
+           familyi={T\bibinitperiod},
+           given={Claudio},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{626becbec9e0175c8e515a1bbd863193}
+      \strng{fullhash}{d112c441b01e9186ac62f266f2f12b98}
+      \strng{bibnamehash}{626becbec9e0175c8e515a1bbd863193}
+      \strng{authorbibnamehash}{626becbec9e0175c8e515a1bbd863193}
+      \strng{authornamehash}{626becbec9e0175c8e515a1bbd863193}
+      \strng{authorfullhash}{d112c441b01e9186ac62f266f2f12b98}
+      \field{extraname}{2}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{cs.CR}
+      \field{eprinttype}{arXiv}
+      \field{title}{SoK: Decentralized Finance (DeFi) -- Fundamentals, Taxonomy and Risks}
+      \field{year}{2024}
+      \true{nocite}
+      \verb{eprint}
+      \verb 2404.11281
+      \endverb
+    \endentry
+    \entry{xiong2024leverage}{misc}{}
+      \name{author}{5}{}{%
+        {{hash=1787cdc31d1db4f6d8156c37648b9b5a}{%
+           family={Xiong},
+           familyi={X\bibinitperiod},
+           given={Xihan},
+           giveni={X\bibinitperiod}}}%
+        {{hash=6470df8fc527317b3e1c17c2b06a83ae}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Zhipeng},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=c6649d02b24225ca4c9012cee6c790de}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Xi},
+           giveni={X\bibinitperiod}}}%
+        {{hash=135098a77e5408e14725d53603819c56}{%
+           family={Knottenbelt},
+           familyi={K\bibinitperiod},
+           given={William},
+           giveni={W\bibinitperiod}}}%
+        {{hash=7ad042fb880cc734fb7b1ddec00d8e20}{%
+           family={Huth},
+           familyi={H\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{9b45b247068e85f103abec1589d2c8cd}
+      \strng{fullhash}{b7b471eb2c5ca7ab50059af3ce572862}
+      \strng{bibnamehash}{9b45b247068e85f103abec1589d2c8cd}
+      \strng{authorbibnamehash}{9b45b247068e85f103abec1589d2c8cd}
+      \strng{authornamehash}{9b45b247068e85f103abec1589d2c8cd}
+      \strng{authorfullhash}{b7b471eb2c5ca7ab50059af3ce572862}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{q-fin.GN}
+      \field{eprinttype}{arXiv}
+      \field{title}{Leverage Staking with Liquid Staking Derivatives (LSDs): Opportunities and Risks}
+      \field{year}{2024}
+      \true{nocite}
+      \verb{eprint}
+      \verb 2401.08610
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

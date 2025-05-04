@@ -1,8 +1,8 @@
-PWD d:/Projects/OptimalStaking/paper
+PWD d:/Projects/Staking_Research/paper
 INPUT c:/texlive/2024/texmf.cnf
 INPUT c:/texlive/2024/texmf-dist/web2c/texmf.cnf
 INPUT c:/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT d:/Projects/OptimalStaking/paper/staking.tex
+INPUT d:/Projects/Staking_Research/paper/staking.tex
 OUTPUT staking.log
 INPUT c:/texlive/2024/texmf-dist/tex/latex/base/article.cls
 INPUT c:/texlive/2024/texmf-dist/tex/latex/base/article.cls

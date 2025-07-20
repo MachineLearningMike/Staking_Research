@@ -428,7 +428,7 @@ of reward distribution tasks, as follows:
     \\reward[user] = reward[user] + principals[user] * ((1+rate)^{blocks/cycle}-1)
   \end{equation}
   The more frequently rewards are collected according to this formula, 
-  the less total reward the user will earn. Users will not move, unless.
+  the less total reward the user will earn. Users will not move, unless they are incentivised otherwise.
   If this formula is intentionally used to discourage them from collecting their rewards frequently, 
   the algorithm is likely found by tweaking our algorithms.
   
@@ -441,7 +441,7 @@ of reward distribution tasks, as follows:
     \\penalty[user] = penalty[user] + principals[user] * ((1-rate)^{blocks/cycle}-1)
   \end{equation}
   The more frequently penalty is paid according to this formula, 
-  the less total penalty the user will pay. Users will not rest, unless. 
+  the less total penalty the user will pay. Users will not rest, unless they are incentivised otherwise. 
   If this formula is intentionally used to encourage them to pay penalty frequently, 
   the algorithm is likely found by tweaking our algorithms.
   
@@ -454,7 +454,7 @@ of reward distribution tasks, as follows:
     \\principals[user] = principals[user] + principals[user] * (alpha * rate * blocks/cycle)
   \end{equation}
   The more frequently the reward is collected according to this formula, 
-  the more total reward the user will earn. Users will not rest, unless.
+  the more total reward the user will earn. Users will not rest, unless they are incentivised otherwise.
   The algorithm, nonetheless, is likely found by tweaking our algorithms.
   
   \item Compound Burn Linear \newline
@@ -466,7 +466,7 @@ of reward distribution tasks, as follows:
     \\principals[user] = principals[user] - principals[user] * (alpha * rate * blocks/cycle)
   \end{equation}
   The more frequently the penalty is paid according to this formula, 
-  the less total penalty the user will pay. Users will not rest, unless.
+  the less total penalty the user will pay. Users will not rest, unless they are incentivised otherwise.
   The algorithm is likely found by tweaking our algorithms.
 \end{itemize}
 
